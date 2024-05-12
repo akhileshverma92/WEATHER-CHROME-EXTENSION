@@ -1,0 +1,11 @@
+{
+    "name": "WEATHER-INFO",
+    "version": "1.0.0",
+    "description": "This Chrome Extension is Devloped by Akhilesh Verma ",
+    "manifest_version": 3,
+    "author": "dev akkyyy",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "My-Extention"
+    }
+}
