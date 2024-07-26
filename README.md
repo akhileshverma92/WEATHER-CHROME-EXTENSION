@@ -20,7 +20,7 @@ WeatherX is a simple and intuitive Chrome extension that displays the current we
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/weatherx-chrome-extension.git
+   git clone https://github.com/akhileshverma92/WEATHER-CHROME-EXTENSION
    ```
 
 2. Open Google Chrome and navigate to `chrome://extensions/`.
